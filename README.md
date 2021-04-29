@@ -17,7 +17,7 @@ data: It provides four types of test data: two healthy data from Siemens Prisma 
 
 logs/last.h5: A file that contains the weights of the trained model
 
-model/MoG_QSM.py : This file contains the functions to create the model-based convolutional neural network proposed in our paper
+model/MoDL_QSM.py : This file contains the functions to create the model-based convolutional neural network proposed in our paper
 
 test: It contains test_tools.py and test_demo.py.
 test_tools.py offers some supporting functions for network testing such as image patch stitching, dipole kernel generation, etc. test_demo.py shows how to perform network testing with data from the "data" folder
