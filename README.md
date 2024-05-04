@@ -1,5 +1,5 @@
 # MoDL-QSM
-Source codes and trained networks described in the paper: MoDL-QSM: Model-based Deep Learning for Quantitative Susceptibility Mapping 
+Source codes and trained networks described in the paper: [MoDL-QSM: Model-based Deep Learning for Quantitative Susceptibility Mapping](https://www.sciencedirect.com/science/article/pii/S1053811921006522) 
 
 MoDL-QSM was proposed by Ruimin Feng and Dr. Hongjiang Wei. It reconstructs high quality STI (Susceptibility Tensor Imaging) component χ_33 map and the field induced by χ_13 and χ_23 terms from the tissue phase.
 
